@@ -1,4 +1,4 @@
-<img width="475" height="429" alt="image" src="https://github.com/user-attachments/assets/d4941543-00fc-4261-a93e-b6a40e4c7e59" /><img width="1333" height="261" alt="image" src="https://github.com/user-attachments/assets/26d3cdab-6f36-40a3-8792-4c994c87d7ba" /># SI-Bitacora3-AccesoRemoto
+># SI-Bitacora3-AccesoRemoto
 
 En esta actividad dejaremos de usar las virtual box, ya nos han dado muchos problemas asi que probaremos una nuevo metodo, 
 Vamos a usar Docker Compose para levantar una infraestructura identica al que usamos en las virtuals box
@@ -77,7 +77,7 @@ y usaremos un entorno como una virtual vox, solo que esta vez sera en el navegad
 2. Abriremos el `http://localhost:3000` lo que nos abrirar un escriturio de ubuntu, eso signfica que funcionara
 <img width="1911" height="976" alt="image" src="https://github.com/user-attachments/assets/d3fbbf14-65d2-43ee-9380-aac131a2777a" />
 3. Por ultimo para comprobar que todo funciona en perfecto estado haremos una preuba y crearemos un archivo llamado **"PRUEABA_EXITOSA"**
-<img width="475" height="429" alt="image" src="https://github.com/user-attachments/assets/78816a6a-957a-48f9-9d20-bfb0e8cd2454" />
+<img width="475" height="429" alt="image" src="https://github.com/user-attachments/assets/d4941543-00fc-4261-a93e-b6a40e4c7e59" /><img width="1333" height="261" alt="image" src="https://github.com/user-attachments/assets/26d3cdab-6f36-40a3-8792-4c994c87d7ba" /
 
 # Fase 4: Documentacion de errores durante la actividad
 
