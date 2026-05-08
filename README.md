@@ -10,7 +10,6 @@ Para crear la infraestrucutra seguremos una seire de pasos y preparar todo el en
 1. Primero crearemos una carpeta en tu equipo llamada SI_Bitacora4_NombreApellido donde sera con la que trabajemos
 2. Dentro de esta carpeta guardaremos el archivo Docker con el siguiente nombre docker-compose.yml, y dentro del archivo tendra este codigo
    **codigo**
-
 ```yaml
 version: '3.8'
 services:
@@ -41,7 +40,6 @@ services:
     shm_size: "1gb" # Importante para evitar cuelgues en el entorno gráfico
     restart: unless-stopped
 ```
-
-Abre una terminal dentro de esa carpeta y ejecuta: docker-compose up -d
-Verifica que los contenedores están corriendo con docker ps. Deberías ver un servidor de consola (SSH) y uno gráfico (Webtop/RDP).
-
+3. Abriremos el docker en nuestro dispositivo y luego abriremos una terminal en visaul code y usaremos `docker-compose up -d` para ejecutarlo  
+4. Por ultimo Verificaremos que los contenedores están funcionando correctamente y para ello usaremos `docker ps`
+5. 
