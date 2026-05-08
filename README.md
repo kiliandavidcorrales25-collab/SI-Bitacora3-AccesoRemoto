@@ -53,22 +53,8 @@ Paso B En la terminal haremos un par de llave usando el comando: `ssh-keygen -t 
 Paso C Por ultimo ya habiendo establecido la contraseña, Copiaremos la llave pública al servidor.Usaremos el comando `ssh-copy-id -p 2222 alumno@localhost` 
 Aquí tienes la información organizada en una tabla de dos filas, tal como me pediste para tu bitácora:
 
-<img width="523" height="72" alt="image" src="https://github.com/user-attachments/assets/d8fec8cc-cbe7-4dbb-bc70-5e23f9a50631" />
-```yaml
-+--[ED25519 256]--+
-|. ooo . ..       |
-|.o . o .. .      |
-|o . .    o .     |
-| +        o .    |
-|  + .   S.   .   |
-|Eo . o = + oo    |
-|. =   o B.O++    |
-|oo .   oo*+Bo    |
-|+o     .+=*+     |
-+----[SHA256]-----+
-0142b6fd94a3:~$ ^C
-0142b6fd94a3:~$ 
-```
+
+<img width="525" height="244" alt="image" src="https://github.com/user-attachments/assets/8455a32f-1a03-4135-9987-027579c3c25e" />
 
 # Fase 3: El Escritorio en el Navegador
 Para terminar esta actividad dejaremos de usar solo la terminal y usaremos mejor algo mas inteactivo, 
@@ -77,8 +63,8 @@ y usaremos un entorno como una virtual vox, solo que esta vez sera en el navegad
 <img width="1915" height="981" alt="image" src="https://github.com/user-attachments/assets/5eea0360-6ff1-44e5-8648-437252747ce7" />
 2. Abriremos el `http://localhost:3000` lo que nos abrirar un escriturio de ubuntu, eso signfica que funcionara
 <img width="1911" height="976" alt="image" src="https://github.com/user-attachments/assets/d3fbbf14-65d2-43ee-9380-aac131a2777a" />
-3. Por ultimo para comprobar que todo funciona en perfecto estado haremos una preuba y crearemos un archivo llamado **"PRUEABA_EXITOSA"**
-<img width="475" height="429" alt="image" src="https://github.com/user-attachments/assets/d4941543-00fc-4261-a93e-b6a40e4c7e59" /><img width="1333" height="261" alt="image" src="https://github.com/user-attachments/assets/26d3cdab-6f36-40a3-8792-4c994c87d7ba" /
+3. Por ultimo para comprobar que todo funciona en perfecto estado haremos una preuba y crearemos un archivo llamado **PRUEABA_EXITOSA**
+<img width="475" height="429" alt="image" src="https://github.com/user-attachments/assets/d4941543-00fc-4261-a93e-b6a40e4c7e59" />
 
 # Fase 4: Documentacion de errores durante la actividad
 
