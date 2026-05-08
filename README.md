@@ -50,6 +50,7 @@ En vez de usar contraseña usaremos una criptografía de clave pública.
 Paso A  Conéctataremos al contenedor usando ssh `alumno@localhost -p 2222`, Luego nos pedira La contraseña la cual es `sistemas_informaticos.`
 
 Paso B En la terminal haremos un par de llave usando el comando: `ssh-keygen -t ed25519 -C "kiliandavidcorrales.25@campuscamara.es"` y tras eso nos pedira en que archivo queremos guardarla y generar una contraseña
+
 Paso C Por ultimo ya habiendo establecido la contraseña, Copiaremos la llave pública al servidor.Usaremos el comando `ssh-copy-id -p 2222 alumno@localhost` 
 Aquí tienes la información organizada en una tabla de dos filas, tal como me pediste para tu bitácora:
 
