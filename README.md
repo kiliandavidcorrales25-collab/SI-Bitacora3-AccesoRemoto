@@ -69,6 +69,7 @@ Aquí tienes la información organizada en una tabla de dos filas, tal como me p
 0142b6fd94a3:~$ ^C
 0142b6fd94a3:~$ 
 ```
+
 # Fase 3: El Escritorio en el Navegador
 Para terminar esta actividad dejaremos de usar solo la terminal y usaremos mejor algo mas inteactivo, 
 y usaremos un entorno como una virtual vox, solo que esta vez sera en el navegador
@@ -81,7 +82,7 @@ y usaremos un entorno como una virtual vox, solo que esta vez sera en el navegad
 
 # Fase 4: Documentacion de errores durante la actividad
 
-a.
+
 b. Me dio un error con el escritorio remoto, y por eso tuve que usar otra opcion abriento el `localhost:3000` en vez del `localhost:3389`
 <img width="584" height="413" alt="image" src="https://github.com/user-attachments/assets/24be175e-566e-444a-9a31-ba3396b79fc3" />
-c.
+
