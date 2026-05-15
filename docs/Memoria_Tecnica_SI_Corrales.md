@@ -41,10 +41,15 @@ Desde el punto de vista técnico, estos programas son una solución que mejora l
 
 
 5.
+
 X El archivo LICENSES.md con las licencias identificadas.
+
 X La carpeta docs con tu memoria técnica inicializada.
+
 X El índice de la memoria funcionando y el análisis de necesidades redactado.
+
 X Has hecho un Commit con el mensaje: feat: Sprint 1 completado - UD07.
+
 x Has entregado la actividad en Classroom, recuerda que seguirás trabajando en el repositorio, así que, ¿Qué más da si la entregas?
 
 
