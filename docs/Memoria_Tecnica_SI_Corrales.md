@@ -1,0 +1,50 @@
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# El Marco Legal y la Estructura del "Relato"
+
+## Sistemas Informáticos
+
+## Kilian David Corrales Pacheco
+
+## 15/05/2026
+
+**Índice**
+
+[**1.1. Contexto y Problemática Actual	3**](#1.1.-contexto-y-problemática-actual)
+
+[**1.2. Solución Propuesta: Infraestructura Híbrida Docker-Guacamole	3**](#1.2.-solución-propuesta:-infraestructura-híbrida-docker-guacamole)
+
+[**1.3. Justificación Técnica y Beneficios (TCO)	3**](#1.3.-justificación-técnica-y-beneficios-\(tco\))
+
+### 1.1. Contexto y Problemática Actual {#1.1.-contexto-y-problemática-actual}
+
+La empresa necesita una forma eficiente para acceder remotamente a diferentes máquinas y servicios internos. hasta ese momento, cada usuario tenía que conectarse de forma manual con herramientas y protocolos SSH, utilizando las direcciones ip
+
+Este método tenía muchos problemas importantes, primero la gestión de conexiones estaba descentralizada, esto hacía que tuviera una difícil y mala administración y cada vez sucedieran más errores  además tener tantos servicios variados en interneten, con esa gestión provocaba muchos errores, y a raíz de estos problemas nacen más problemas, como el problema del mantenimiento, configurar toda esa infraestructura y servicios de forma manual y remota en distintos dispositivos hacía que hubiera errores por incoherencias e inconsistencias entre dispositivos 
+
+### 1.2. Solución Propuesta: Infraestructura Híbrida Docker-Guacamole {#1.2.-solución-propuesta:-infraestructura-híbrida-docker-guacamole}
+
+Tras analizar los requerimientos de accesibilidad y seguridad, se ha optado por implementar una solución basada en **Apache Guacamole** desplegada mediante **Docker Compose**. Esta arquitectura permite:
+
+* **Centralización**. Un único punto de acceso vía web (puerto 8080/443) para todos los servicios internos.  
+* **Aislamiento**. Gracias a los contenedores, cada servicio (PostgreSQL, Guacamole, SSH) opera en su propio entorno estanco, evitando conflictos de dependencias.  
+* **Seguridad**. Se elimina la necesidad de clientes externos pesados, permitiendo una auditoría centralizada de las conexiones.
+
+### 1.3. Justificación Técnica y Beneficios (TCO) {#1.3.-justificación-técnica-y-beneficios-(tco)}
+
+**\[Instrucción: Convence al lector de que tu solución es rentable y profesional\]**
+
+La elección  de apache Guacamole y Docker, estos servicios ofrecen múltiples ventajas técnicas y económicas para cualquier empresa.
+
+Desde el punto de vista técnico, estos programas son una solución que mejora la seguridad y evita problemas con haber múltiples servicios con RDP O SSH a internet además de centralizar todo en un único punto web para evitar problemas de administración o gestión 
+
