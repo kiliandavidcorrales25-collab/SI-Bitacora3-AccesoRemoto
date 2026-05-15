@@ -1,14 +1,4 @@
-# 
 
-# 
-
-# 
-
-# 
-
-# 
-
-# 
 
 # El Marco Legal y la Estructura del "Relato"
 
@@ -47,4 +37,15 @@ Tras analizar los requerimientos de accesibilidad y seguridad, se ha optado por 
 La elección  de apache Guacamole y Docker, estos servicios ofrecen múltiples ventajas técnicas y económicas para cualquier empresa.
 
 Desde el punto de vista técnico, estos programas son una solución que mejora la seguridad y evita problemas con haber múltiples servicios con RDP O SSH a internet además de centralizar todo en un único punto web para evitar problemas de administración o gestión 
+
+
+
+5.
+X El archivo LICENSES.md con las licencias identificadas.
+X La carpeta docs con tu memoria técnica inicializada.
+X El índice de la memoria funcionando y el análisis de necesidades redactado.
+X Has hecho un Commit con el mensaje: feat: Sprint 1 completado - UD07.
+x Has entregado la actividad en Classroom, recuerda que seguirás trabajando en el repositorio, así que, ¿Qué más da si la entregas?
+
+
 
