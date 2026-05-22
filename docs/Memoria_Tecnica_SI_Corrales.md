@@ -53,4 +53,7 @@ X Has hecho un Commit con el mensaje: feat: Sprint 1 completado - UD07.
 x Has entregado la actividad en Classroom, recuerda que seguirás trabajando en el repositorio, así que, ¿Qué más da si la entregas?
 
 
+# 2. Estimación de Costes de Infraestructura
+
+<img width="915" height="161" alt="image" src="https://github.com/user-attachments/assets/3ba9859f-cb72-425b-ae8f-6b7651991736" />
 
