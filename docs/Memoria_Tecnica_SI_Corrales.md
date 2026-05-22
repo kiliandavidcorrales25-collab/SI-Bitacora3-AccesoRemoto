@@ -69,6 +69,7 @@ x Has entregado la actividad en Classroom, recuerda que seguirás trabajando en 
 
 * La investigacion sobre el uso del Docker compose, La investigacion habla sobre el uso de los contenedores del docker en el entorno de desarrollo y aplicaciones. El articulo explica que los contendroes funcinan bien por su organizacion, son una gran mejora para la orgnaziacion de aplicaciones y proceso des desarrolo, ademas de facilitar mucho el despelgar servicios de cloud
 
+*  Este articluo es utli para nuestro proyecyo ya que puede servir como apoyo, queremos usar la infrastrcutura de docker para asegurar la aplicacion y su mantenimiento, Por eso, gracias a los servicos de uso de docker, podrmeos despelgar la aplicacion mas rapido y no tener problemas de compatibilidad el cual es uno de los requisitos principales del cliente
 
 # 5 ¿Cuándo he terminado?
 *  Tu Memoria_Tecnica.md tiene los 3 nuevos apartados (Costes, Despliegue y Justificación).
