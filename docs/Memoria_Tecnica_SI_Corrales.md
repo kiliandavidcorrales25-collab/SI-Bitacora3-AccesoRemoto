@@ -65,6 +65,10 @@ x Has entregado la actividad en Classroom, recuerda que seguirás trabajando en 
 
 *  Para la comunicacion del equipo una de las herrramientas mas comunes hoy en dia, Discord, ya que permite hablar como si fuerau na  llamada de telefono, compartir archivos, y crear grupos para la organizacion del proyeco. Ademas que es muy utlil y comoda de usar
 
+# 4. Justificación Científica
+
+* La investigacion sobre el uso del Docker compose, La investigacion habla sobre el uso de los contenedores del docker en el entorno de desarrollo y aplicaciones. El articulo explica que los contendroes funcinan bien por su organizacion, son una gran mejora para la orgnaziacion de aplicaciones y proceso des desarrolo, ademas de facilitar mucho el despelgar servicios de cloud
+
 
 # 5 ¿Cuándo he terminado?
 *  Tu Memoria_Tecnica.md tiene los 3 nuevos apartados (Costes, Despliegue y Justificación).
@@ -73,3 +77,5 @@ x Has justificado el uso de un protocolo seguro de transferencia de ficheros (CE
 *  Hay al menos 1 referencia bibliográfica académica en formato IEEE extraída de un buscador especializado (CE 7.f).
 x Has hecho el Commit correspondiente en tu repositorio de documentación.
 
+# Referencias
+López, L. E. G., & Alarcón, C. A. G. (2020). Extensión de la arquitectura Docker para el despliegue automático de contenedores. INGENIARE, 29, 11–26. https://dialnet.unirioja.es/servlet/articulo?codigo=8051527
