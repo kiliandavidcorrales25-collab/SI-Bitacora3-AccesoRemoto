@@ -59,8 +59,8 @@ x Has entregado la actividad en Classroom, recuerda que seguirás trabajando en 
 
 # 3. Estrategia de Despliegue y Comunicación
 
-*  Para poder usar la apliacacion al servidor usaremos SFTP, Usaeremos esta opcion, porque nos permite transferir archivos con citas me diante conexiones de SSH. Esta opcion soluciona los problemas  de seguridad que train otras opcioens como FTP tradcional, este trasmite mensajes y contraseñas en texto normal,  y puede ser facilmente interceptado
+*  Para poder usar la apliacacion al servidor usaremos SFTP, Usaeremos esta opcion, porque nos permite transferir archivos con citas me diante conexiones de SSH. Esta opcion soluciona los problemas de seguridad que train otras opcioens como FTP tradcional, este trasmite mensajes y contraseñas en texto normal, y puede ser facilmente interceptado
 
-*   El proceso consiste en subir archvios al proyecyo desde nuestro ordenador al srevidor de la nube, donde estara alojada nuestra aplicacion. De esta forma podremos actualizarl y corregir los errores de manera mas rapida y segura
+** El proceso consite en subir los archivos del proyecto desde nuestro ordenador al servidor de la nube, donde estará alojada nuestra aplicación. De esta forma podremos actualizarla y corregir los errores de manera mas rápida y segura
 
-*  Para la comunicacion del equipo una de las herrramientas mas comunes hoy en dia, Discord, ya que permite hablar como si fuerau na  llamada de telefono, compartir archivos, y crear grupos para la organizacion del proyeco.
+*  Para la comunicacion del equipo una de las herrramientas mas comunes hoy en dia, Discord, ya que permite hablar como si fuerau na  llamada de telefono, compartir archivos, y crear grupos para la organizacion del proyeco. Ademas que es muy utlil y comoda de usar
